@@ -16,7 +16,7 @@ public class Salario {
             System.out.println("Até 3 salarios Minimos");
         }
         if (sala > 1935 && sala < 3225) {
-            System.out.println("Até 2 salarios Minimos");
+            System.out.println("Até 5 salarios Minimos");
         }
         if (sala > 3225) {
             System.out.println("Acima de 5 Salarios minimos");
