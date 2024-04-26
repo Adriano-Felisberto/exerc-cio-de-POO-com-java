@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Salario {
     //Adriano Felisberto dos Santos
     //Turma:3ºB
+    //recuperação
     public static void main(String[] args) {
         float sala;
         Scanner ler = new Scanner(System.in);
