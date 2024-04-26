@@ -1,6 +1,7 @@
 import java.util.Scanner;
 //Aluno: Adriano Felisberto dos Santos
 //Turma:3ºB
+//Segunda nota
 public class Alistamento {
     public static void main(String[] args) {
         int anoatual = 2024;
