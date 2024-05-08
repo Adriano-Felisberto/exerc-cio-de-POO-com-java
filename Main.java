@@ -1,6 +1,7 @@
 import java.util.Scanner;
 //ALUNOAdriano Felisberto dos Santos 
 //TURMA:3ºB
+//ATIVIDA DA CLASSE PEIXE E MAMIFERO
 class Animal {
     private String cor;
     private String andar;
