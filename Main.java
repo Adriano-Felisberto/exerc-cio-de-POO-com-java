@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//ALUNOAdriano Felisberto dos Santos 
+//TURMA:3ºB
 class Animal {
     private String cor;
     private String andar;
